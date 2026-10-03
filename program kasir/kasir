@@ -1,1 +1,14 @@
+PROGRAM KASIR SEDERHANA
+Program ini merupakan program yang dibuat untuk mengasah kemampuan saya dalam pemprograman.
+Dengan tujuan untuk meningkatkan kemmapuan dalam perulangan, kondisi if dan proses input.
+
+Alur sederhananya seperti ini:
+1. Daftar menu: Berupa daftar menu minuman dalam bentuk list of dict
+2. Menampilkan daftar menu dengan menggunakan for loop
+3. Perulangan while: Ada 2 inputan pertama itu memilih menu sesuai dengan codenya, dan memasukan berapa
+jumlah yang ingin dipesan. Jika user sudah menginput 2 itu maka akan otomatis mengeluarkan output sesuai dengan code menu
+yang ada di daftar menu beserta subtotalnya.
+4. Lalu program akan meminta apakah ingin memesan lagi atau tidak. Jika tidak maka program akan berhenti
+dilanjut ke output pembayaran.
+5. Jika user memilih ya maka program akan balik lagi ke 2 inputan sampe user mengetik n untuk selesai.
 
